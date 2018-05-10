@@ -1,12 +1,9 @@
 # RollingNumber
 数字滚动的效果，应该在网页中很常见
 #实现的效果:
-
-# 代码如下（工程我就不上传了）
-/**
- * Created by csc on 2018/5/10.
- * explain：数字滚动动画
- */
+![Image text](https://img-blog.csdn.net/20180510165251647)
+# 实现代码如下，Demo我就不上传了
+ 
  
  
 class NumberAnimationTextView(context: Context) : AppCompatTextView(context) {

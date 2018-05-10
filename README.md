@@ -5,10 +5,13 @@
 
 ![Image text](https://img-blog.csdn.net/20180510165251647)
 # 实现代码如下，Demo我就不上传了
- 
+#
+
  
  
 class NumberAnimationTextView(context: Context) : AppCompatTextView(context) {
+
+
     //默认开始的数字
     private var mStartNum:String="0"
     //结束时的数字
